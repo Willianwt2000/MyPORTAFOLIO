@@ -16,8 +16,8 @@ html{
     --purple-bg: rgb(25, 0, 60);
     --ligth-purple: #610094;
     --blue: #58ecff;
-    --gradient: 181deg, #000000 35%, #2e006e 100%;
-    --gradient-transparent: 181deg, #2e006e 50%,#000000c5  100%;
+    --gradient: 181deg, #1f1b1b 35%, #2e006e 100%;
+    --gradient-transparent: 181deg, #2e006e 50%,#1a1818c5  100%;
     --glow-blue: drop-shadow(0 0 11px rgba(0, 212, 255, 1));
     --green-terminal: rgb(0, 255, 102);
     --yellow-terminal:rgb(182, 182, 3);
@@ -31,7 +31,7 @@ html{
 }
 
 a{
- text-decoration: none;   
+  text-decoration: none;   
 }
 body {
   overflow-x: hidden;

@@ -26,7 +26,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgba(255, 56, 152, 0.284);
+    background: rgba(42, 245, 76, 0.473);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
@@ -40,14 +40,14 @@
     font-size: 2.5rem;
     font-weight: 700;
     margin-top: -6rem;
-  }
+}
 
 
-  .card-title span {
+.card-title span {
     font-size: 2rem;
     font-weight: 500;
     color: var(--purple);
-  }
+}
 .card-photo {
     transform: scale(0.3) translate(226px, 747px);
     margin-left: -134px;
