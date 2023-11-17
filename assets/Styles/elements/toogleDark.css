@@ -1,0 +1,83 @@
+.menu__icon {
+	display: flex;
+
+	position: fixed;
+	z-index: 999;
+	bottom: 5vh;
+	right: 81.7vw;
+}
+
+.dark-mode__container {
+	-webkit-animation: scale-up-center 0.3s ease-in 2s backwards;
+	        animation: scale-up-center 0.3s ease-in 2s backwards;
+}
+
+ @-webkit-keyframes scale-up-center {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  @keyframes scale-up-center {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  
+.dark-mode__container {
+  width: 4rem;
+  height: 4rem;
+  transition: all 0.4s;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(10px);
+  background: linear-gradient(var(--gradient-transparent));
+  border-radius: 50px;
+  box-shadow: -15px 35px 68px 0px rgba(145, 192, 255, 0.5), inset 12px -12px 16px 0px rgba(214, 232, 255, 0.214), inset 0px 11px 28px 0px rgb(255, 255, 255);
+  padding: 7px;
+  display: flex;
+  bottom: 36vh;
+  right: 1.7rem;
+  position: fixed;
+
+}
+
+
+/* icono modo oscuro */
+.dark-mode__icon {
+	padding: 20px 1px;
+	width: 45px;
+	transition: 0.3s ease-in-out;
+	justify-content: center;
+}
+.desktop-rayo {
+	font-size: 24px;
+	filter: invert(100%);
+}
+
+@media (min-width: 768px) {
+	.dark-mode__container {
+        bottom: 8vh;
+        right: 1px;
+        position: absolute;
+    }
+    
+        
+}
+@media (min-width: 1200px) {
+	.dark-mode__container {
+        bottom: 4vh;
+        right: -63px;
+       
+    }
+        
+}
