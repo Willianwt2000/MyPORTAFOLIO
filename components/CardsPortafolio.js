@@ -33,10 +33,10 @@ export default function CardsPortafolio(){
             repoURL: "https://github.com/Willianwt2000/app-gestion-de-tareas.git"
         },
         {
-            imgSrc: "",
-            titulo: "My Portfolio",
+            imgSrc: "../assets/img/PortfolioImg/E-commerce.png",
+            titulo: "E-commerce",
             skills: ["JavaScript"],
-            descripcion: "",
+            descripcion: "I independently developed an e-commerce website using HTML, CSS and JavaScript to provide an interactive and engaging shopping experience.",
             demoURL: "./index.html",
             repoURL: ""
         },
@@ -48,6 +48,7 @@ export default function CardsPortafolio(){
             demoURL: "https://willianwt-zabaione-encrypt.netlify.app/",
             repoURL: "https://github.com/Willianwt2000/Encriptador-v2.git"
         },
+        
     ];
     
     const skillIcons = {
