@@ -26,7 +26,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgba(42, 245, 76, 0.473);
+    background: rgba(4, 9, 59, 0.61);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
@@ -156,6 +156,8 @@
 	width: 25px;
 }
 
+
+
 @media (min-width: 768px) {
 	.about {
 		height: 101vh;
@@ -179,8 +181,8 @@
     font-size: 2.5rem;
     font-weight: 700;
     margin-top: 2rem;
-  }
-   
+}
+
     .card__about {
 	    overflow: hidden;
 		width: 30rem;

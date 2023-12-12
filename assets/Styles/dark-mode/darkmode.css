@@ -100,7 +100,7 @@
 }
 
 .dark-mode .hero__titulo {
-	color: white;
+	color: rgb(255, 255, 255);
 }
 
 .dark-mode .hero__titulo span {
