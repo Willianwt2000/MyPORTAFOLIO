@@ -4,7 +4,7 @@ export default function CardsPortafolio(){
             imgSrc: "./assets/img/PortfolioImg/netflixClone.png",
             titulo: "Netflix  Clone",
             skills: ["JavaScript"],
-            descripcion: "Proyect of Netflix clone",
+            descripcion: "Netflix clone developed with HTML, CSS, JS and DOM manipulation for a faithful reproduction of the experience, from design to interactivity.",
             demoURL: "https://wt-netflix-clone.netlify.app",
             repoURL: "https://github.com/Willianwt2000/netflix-clone.git"
         },
@@ -12,7 +12,7 @@ export default function CardsPortafolio(){
             imgSrc: "./assets/img/PortfolioImg/reactOpinion.png",
             titulo: "Opinion Foro",
             skills: ["React"],
-            descripcion: "First proyect to type opinions on the forum.",
+            descripcion: "My first project to express opinions in a forum. Developed with HTML, JS, CSS and React for a more dynamic and attractive experience.",
             demoURL: "https://glistening-cannoli-e9ac4f.netlify.app/",
             repoURL: "https://github.com/Willianwt2000/new-Proyect_opinion.git"
         },
@@ -36,9 +36,9 @@ export default function CardsPortafolio(){
             imgSrc: "../assets/img/PortfolioImg/E-commerce.png",
             titulo: "E-commerce",
             skills: ["JavaScript"],
-            descripcion: "I independently developed an e-commerce website using HTML, CSS and JavaScript to provide an interactive and engaging shopping experience.",
-            demoURL: "./index.html",
-            repoURL: ""
+            descripcion: "Developed an eCommerce site using HTML, CSS and JavaScript, enhanced with localStorage. Used libraries like Tastifye to enhance the visual interface and SweetAlert for engaging notifications. Experience a modern and personalized shopping experience on our site.",
+            demoURL: "https://wt-shop.netlify.app/",
+            repoURL: "https://github.com/Willianwt2000/E-commerce"
         },
         {
             imgSrc: "./assets/img/PortfolioImg/encrypt.png",
