@@ -21,8 +21,8 @@ export default function CardsPortafolio(){
             titulo: "Calculator",
             skills: ["React"],
             descripcion: " Second proyect using react of freecodecamp buildin a calculator using hoocks",
-            demoURL: "https://alura-geek-ruddy.vercel.app/",
-            repoURL: "https://github.com/SofiDevO/react-org"
+            demoURL: "https://calculadorawt.netlify.app",
+            repoURL: "https://github.com/Willianwt2000/React-calculator"
         },
         {
             imgSrc: "./assets/img/PortfolioImg/tareaApp.png",
