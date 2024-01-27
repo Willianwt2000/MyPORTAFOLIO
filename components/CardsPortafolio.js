@@ -45,8 +45,8 @@ export default function CardsPortafolio(){
             titulo: "Message Encryptor",
             skills: ["JavaScript"],
             descripcion: "Message Encryptor for the first Alura Latam Challenge: Programming Logic.",
-            demoURL: "https://willianwt-zabaione-encrypt.netlify.app/",
-            repoURL: "https://github.com/Willianwt2000/Encriptador-v2.git"
+            demoURL: "https://encrypted-text.netlify.app/",
+            repoURL: "https://github.com/Willianwt2000/Encriptador-de-texto"
         },
         
     ];
