@@ -24,7 +24,7 @@ Otras tecnologías según los proyectos destacados.
 
 Estoy ansioso por recibir tus comentarios y sugerencias. Tu opinión es fundamental para el crecimiento continuo de mi trabajo. ¡Gracias por tomarte el tiempo de explorar mi portafolio! 😊
 
-![gift del repositorio]
+![gift del repositorio](/imgReadme/gift.gif)
 
 ### Versiones  📷
 
